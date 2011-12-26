@@ -1,0 +1,17 @@
+# Created by Octave 3.4.0, Mon Dec 26 18:15:31 2011 BRST <mdlima@bspowksvistaie7.corp.unear.net>
+# name: B
+# type: matrix
+# rows: 10
+# columns: 1
+ 64390
+ 9599
+ 7520
+ 5425
+ 3069
+ 5338
+ 51253
+ 31991
+ 54957
+ 16458
+
+
